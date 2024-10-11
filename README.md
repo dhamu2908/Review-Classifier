@@ -5,7 +5,6 @@ The entire implementation is developed from scratch without utilizing any inbuil
 The dataset used for this project is the Zomato Reviews & Ratings from Kaggle. You can download it from the following link: [Zomato Reviews & Ratings Dataset.](https://www.kaggle.com/datasets/milanvaddoriya/zomato-reviews-ratings/data)
 
 The accuraies as of now follows
-   Validation Accuracy: 0.51
-   Test Accuracy: 0.47
+   Validation Accuracy: 51%, Test Accuracy: 47%
 
 I am trying to build more accurate models. 
